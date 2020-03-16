@@ -1,4 +1,4 @@
-RGB Color Game
+<strong>RGB Color Game<strong>
 
 This game is designed to quiz your RGB color knowledge. 
 

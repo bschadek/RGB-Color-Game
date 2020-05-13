@@ -10,3 +10,5 @@ Guess the right color and you win!
 
 Fun for all ages.
 
+Made with HTML, CSS and Javascript
+
